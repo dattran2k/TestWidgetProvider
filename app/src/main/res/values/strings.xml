@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestWidget</string>
+    <string name="hello">This screen is a simple placeholder, and will be shown whenever the user clicks on the widget.  In a real application, this would show detailed information..</string>
+    <string name="buttontxt">Click Me!</string>
+    <string name="widget1name">widget1name</string>
+    <string name="widget2name">widget2name</string>
+    <string name="widget1txt">Widget 1</string>
+    <string name="widget2txt">Widget 2</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+</resources>
